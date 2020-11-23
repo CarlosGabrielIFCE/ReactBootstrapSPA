@@ -29,7 +29,7 @@ export default props => {
                         </div>
                     </div>
                     <div class="col-lg-5 text-center text-lg-left">
-                        <img src="/imgs/cellphoneBenu.png" alt="" class="img-fluid z-depth-0" />
+                        <img src="/imgs/cellphoneSuch.png" alt="" class="img-fluid z-depth-0" />
                     </div>
                 </div>
             </section>

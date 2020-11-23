@@ -7,7 +7,7 @@ export default props =>
         <div className="container-fluid bg-light team4" id="services">
             <div className="row pt-2">
                 <div className="col-lg-5 text-center text-lg-left">
-                    <img src="/imgs/laptopBenu.png" alt="" class="img-fluid z-depth-0" />
+                    <img src="/imgs/laptopSuch.png" alt="" class="img-fluid z-depth-0" />
                 </div>
                 <div className="col-lg-7 margin-top-30">
                     <h2 className="h2 py-1 font-weight-bold text-center">Sistemas Web</h2>
@@ -57,7 +57,7 @@ export default props =>
                 </div>
 
                 <div className="col-lg-5 text-center text-lg-left">
-                    <img src="imgs/cellphoneBenu.png" alt="" class="img-fluid z-depth-0" />
+                    <img src="imgs/cellphoneSuch.png" alt="" class="img-fluid z-depth-0" />
                 </div>
 
 
