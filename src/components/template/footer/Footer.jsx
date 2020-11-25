@@ -8,30 +8,27 @@ export default props => {
             <div class="container text-center text-md-left">
                 <div class="row text-center text-md-left mt-3 pb-3">
                     <div class="col-md-3 col-lg-3 col-xl-3 mx-auto mt-3">
-                        <h6 class="text-uppercase mb-4 font-weight-bold"><img src="/imgs/suchSoftwareNoBg.png"
+                        <h6 class="text-uppercase mb-4 font-weight-bold"><img src="/imgs/DevOpsLateral.png"
                             height="70" /></h6>
-                        <p>Com anos de experiência no mercado de tecnologia, a Such a Software é especializada no desenvolvimento de
+                        <p>Com anos de experiência no mercado de tecnologia, a DevOps é especializada no desenvolvimento de
                         softwares que simplificam e otimizam a gestão de empresas.
                 </p>
                     </div>
                     <hr class="w-100 clearfix d-md-none" />
                     <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mt-3">
                         <h6 class="text-uppercase mb-4 font-weight-bold">Produtos</h6>
-                        <p>
-                            <a href="https://siscontroladoras.com.br" target="_blank">SIS Controladoras</a>
-                        </p>
                     </div>
                     <hr class="w-100 clearfix d-md-none" />
                     <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mt-3">
                         <h6 class="text-uppercase mb-4 font-weight-bold">Contato</h6>
                         <p>
-                            SHIN QI 11 Conjunto 10
+                            Lorem Ipsum
                 </p>
                         <p>
-                            comercial@suchasoftware.com.br
+                            comercial@devops.com.br
                 </p>
                         <p>
-                            61 3254 1785
+                            61 99999 9999
                 </p>
                     </div>
                 </div>

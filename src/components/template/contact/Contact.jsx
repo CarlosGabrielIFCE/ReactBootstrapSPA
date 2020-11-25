@@ -52,10 +52,10 @@ export default props => {
                                                     <div class="col-lg-4 bg-image">
                                                         <div class="detail-box p-4">
                                                             <h5 class="text-white font-weight-light mb-3">ENDEREÇO</h5>
-                                                            <p class="text-white op-7">SHIN QI 11 Conjunto 10
-                                                                <br /> Lago Norte, DF</p>
+                                                            <p class="text-white op-7">Lorem Ipsum
+                                                                <br /> Lore Ipsum</p>
                                                                 <h5 class="text-white font-weight-light mb-3 mt-4">ENTRE EM CONTATO</h5>
-                                                                <p class="text-white op-7">61 3254 1785
+                                                                <p class="text-white op-7">61 9999 9999
                                                                     <br /> </p>
                                                                     <div class="round-social light">
                                                                         <a class="text-decoration-none text-white border border-white rounded-circle"><i

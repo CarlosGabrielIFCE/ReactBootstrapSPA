@@ -11,7 +11,7 @@ export default props =>
                 </div>
                 <div className="col-lg-7 margin-top-30">
                     <h2 className="h2 py-1 font-weight-bold text-center">Sistemas Web</h2>
-                    <p className="px-5 mb-5 pb-3 lead grey-text text-center">A Such a Software desenvolve tudo o que você precisa para
+                    <p className="px-5 mb-5 pb-3 lead grey-text text-center">A DevOps desenvolve tudo o que você precisa para
                     gerenciar com sucesso a gestão do seu negócio. Oferecemos funcionalidades que nenhuma
                     outra plataforma do mercado oferece, além de inovações constantes que fazem toda a diferença
           para a gestão bem sucedida da sua empresa.</p>
@@ -35,7 +35,7 @@ export default props =>
                     <h2 className="h2 py-1 font-weight-bold text-center">Apps Mobile</h2>
                     <p className="px-5 mb-5 pb-3 lead grey-text text-center">Tenha controle total da sua empresa na palma da mão! Os
                     aplicativos
-                    desenvolvidos pela Such a Software possibilitam:
+                    desenvolvidos pela DevOps possibilitam:
                     </p>
                     <ul>
                         <li>

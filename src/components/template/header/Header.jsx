@@ -26,7 +26,7 @@ class FullPageIntroWithNonFixedNavbar extends React.Component {
                     <header>
                         <MDBNavbar color="black" dark expand="md">
                             <MDBNavbarBrand>
-                                <strong className="white-text">Such a Software</strong>
+                                <strong className="white-text">DevOps Techno</strong>
                             </MDBNavbarBrand>
                             <MDBNavbarToggler onClick={this.toggleCollapse} />
                             <MDBCollapse id="navbarCollapse3" isOpen={this.state.isOpen} navbar>
@@ -73,7 +73,7 @@ class FullPageIntroWithNonFixedNavbar extends React.Component {
                                 <h1>Modernize sua empresa com os softwares mais
                             inovadores do mercado</h1>
                                 <br />
-                                <h6 className="mb-3">Com a Such a Software, você tem a possibilidade de ter tudo o que precisa para
+                                <h6 className="mb-3">Com a DevOps, você tem a possibilidade de ter tudo o que precisa para
                                 modernizar a gestão do
                             seu negócio, diminuir seus custos e aumentar seus lucros. </h6>
                             </MDBCol>
